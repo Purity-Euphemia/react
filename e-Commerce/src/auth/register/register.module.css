@@ -2,3 +2,6 @@
     display: flex;
     align-items: center;
 }
+.linkToLogin a{
+    color: rgb(223, 32, 32);
+}

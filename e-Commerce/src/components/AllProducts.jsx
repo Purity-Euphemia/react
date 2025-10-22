@@ -1,5 +1,6 @@
 import React from "react";
 import { useGetAllProductsQuery } from "../api/productApi";
+import "./AllProducts.css"
 const AllProducts = () => {
     const products = useGetAllProductsQuery();
     // console.log(products.data);
